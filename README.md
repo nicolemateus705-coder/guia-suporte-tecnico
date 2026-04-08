@@ -28,3 +28,8 @@ Este repositório pode ser utilizado como guia prático para suporte técnico b�
 ## 📌 Status
 
 Em desenvolvimento 🚧
+## 📂 Conteúdos do projeto
+
+- 🔧 [Formatação de Computadores](formatacao.md)
+- 🌐 [Configuração de Rede](rede-basica.md)
+- 🧰 [Problemas Comuns](problemas-comuns.md)
