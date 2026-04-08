@@ -15,3 +15,16 @@ Demonstrar conhecimentos práticos em suporte técnico, manutenção de computad
 ## 👨‍💻 Autor
 
 Nicole Mateus
+## 📂 Estrutura do projeto
+
+- formatacao.md → Guia de formatação de computadores
+- rede-basica.md → Configuração e diagnóstico de rede
+- problemas-comuns.md → Soluções para problemas frequentes
+
+## 🚀 Como usar
+
+Este repositório pode ser utilizado como guia prático para suporte técnico básico no dia a dia.
+
+## 📌 Status
+
+Em desenvolvimento 🚧
