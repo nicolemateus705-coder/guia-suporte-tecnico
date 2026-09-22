@@ -1,18 +1,18 @@
-# 🧰 Problemas Comuns
+# Problemas Comuns
 
-## 🖥️ Computador lento
+## Computador lento
 
 - Limpar arquivos temporários
 - Desinstalar programas
 - Verificar vírus
 
-## ❌ Não liga
+## Não liga
 
 - Verificar fonte
 - Testar tomada
 - Verificar cabos
 
-## 🌐 Sem internet
+## Sem internet
 
 - Reiniciar roteador
 - Verificar conexão Wi-Fi
