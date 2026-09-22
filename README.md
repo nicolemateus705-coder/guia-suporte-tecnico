@@ -27,7 +27,7 @@ Este repositório pode ser utilizado como guia prático para suporte técnico b�
 
 ## Status
 
-Em desenvolvimento 🚧
+Em desenvolvimento
 ## Conteúdos do projeto
 
 -  [Formatação de Computadores](formatacao.md)
