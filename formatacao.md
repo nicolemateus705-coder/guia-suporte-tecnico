@@ -1,6 +1,6 @@
-# 🔧 Formatação de Computador
+#  Formatação de Computador
 
-## 📌 Passos básicos
+##  Passos básicos
 
 1. Fazer backup dos arquivos importantes
 2. Criar um pendrive bootável (Windows ou Linux)
@@ -10,14 +10,14 @@
 6. Instalar drivers
 7. Instalar programas essenciais
 
-## 💻 Programas essenciais
+##  Programas essenciais
 
 - Navegador (Chrome, Edge)
 - Pacote Office
 - Antivírus
 - WinRAR / 7zip
 
-## ⚠️ Observações
+##  Observações
 
 - Sempre verificar se há backup antes de formatar
 - Instalar drivers corretos do fabricante
